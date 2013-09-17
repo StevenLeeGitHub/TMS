@@ -1,5 +1,4 @@
 TMS
-===
 
 A Talent Management System
 Web application
