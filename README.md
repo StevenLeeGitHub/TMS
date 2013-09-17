@@ -1,9 +1,9 @@
-TMS
+<h1>TMS</h1>
 
-A Talent Management System
-Web application
-Using following techonologies:
-Spring MVC 3.2
-Tiles 2.2
-mybatis
-Mysql
+<h2>A Talent Management System</h2>
+Web application<br>
+Using following techonologies:<br>
+Spring MVC 3.2<br>
+Tiles 2.2<br>
+mybatis<br>
+Mysql<br>
